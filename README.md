@@ -5,5 +5,5 @@ Hello, my name is Mu Hua Hsu
 - I will graduate in May and am now searching for a full-time analyst job
 - How to find me:
   - :bulb:      [Linkedin](https://www.linkedin.com/in/mu-hua-hsu-mba-556516200/)
-  - :pencil2: [E-Mail](sa841202123@gmail.com)
+  - :mailbox: [E-Mail](sa841202123@gmail.com)
 
