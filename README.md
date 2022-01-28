@@ -10,6 +10,6 @@
   - [Worldwide-Life-Expectancy-Analysis](https://github.com/ryan-egbert/life-expectancy)
   - And more!
 - How to contact me:
-  - 📂 [Linkedin](https://www.linkedin.com/in/mu-hua-hsu-mba-556516200/)
+  - 📂 [LinkedIn](https://www.linkedin.com/in/mu-hua-hsu-mba-556516200/)
   - :mailbox: sa841202123@gmail.com 
 
