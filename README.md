@@ -6,7 +6,7 @@
 - Project:
   - [Craigslist-Feedback-Forum-Analysis-and-Classifier](https://github.com/sa841202123/Craigslist-Feedback-Forum-Analysis-and-Classifier)
   - [Airbnb-New-York-Guest-Guide](https://github.com/sa841202123/Airbnb-New-York-Guest-Guide)
-  - [CTBC-Bank-Super-Investor-Portfolio-Selction-Prediction](https://github.com/wellslu/CTBC-PROJECT)
+  - [CTBC-Bank-Super-Investor-Portfolio-Selection-Prediction](https://github.com/wellslu/CTBC-PROJECT)
   - [Worldwide-Life-Expectancy-Analysis](https://github.com/ryan-egbert/life-expectancy)
   - And more!
 - How to contact me:
